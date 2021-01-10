@@ -32,7 +32,7 @@ router.post('/', async (req, res) => {
 })
 
 function parseData(data) {
-    const ingredients_src = require('./ingredients.json')
+    const ingredients_src = require('../data/ingredients.json')
     let result = []
     for (let item of data){
         item = item.toLowerCase()
