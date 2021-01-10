@@ -1,6 +1,7 @@
 const express = require('express')
 const cors = require('cors')
 const path = require('path')
+const bodyParser = require('body-parser')
 require('dotenv').config()
 
 const app = new express()
@@ -11,6 +12,8 @@ app.set('view engine', 'pug')
 app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
+app.use(express.static(path.join(__dirname, 'images')))
+app.use(bodyParser.json())
 
 // Routers
 const ingredientsRouter = require('./routes/ingredients')
