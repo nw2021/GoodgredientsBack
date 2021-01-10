@@ -7,7 +7,7 @@ const fetch = require('node-fetch')
 router.post('/', async (req, res) => {
     try {
         const body = { 
-            sampleLocation: 'https://i.stack.imgur.com/tWJ66.jpg',
+            sampleLocation: req.body.location,
             modelId: 'OCRModel' 
         }
  
@@ -23,10 +23,26 @@ router.post('/', async (req, res) => {
         for(let i = 0; i < jsonArray.length; i++) {
             retArray.push(jsonArray[i].label)
         }
-        res.status(200).json(retArray)
+
+        let finalResult = parseData(retArray)
+        res.status(200).json(finalResult)
     } catch (err) {
         res.status(400).json( { message: err.message })
     }
 })
+
+function parseData(data) {
+    const ingredients_src = require('./ingredients.json');
+    let result = [];
+    for (let item of data){
+        item = item.toLowerCase();
+        for (let i of ingredients_src) {
+          if (i.label.toLowerCase() == item) {
+            result.push(i); 
+          }
+        }
+    }
+  return result;
+}
 
 module.exports = router

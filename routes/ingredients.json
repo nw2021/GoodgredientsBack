@@ -1,0 +1,392 @@
+[
+  {
+    "chemical": "SLS",
+    "label": "sodium lauryl sulfate",
+    "allergy": "TRUE",
+    "description": "SLS is a known irritant to our eyes and skin. Other findings suggest that SLS can cause cancer in an animal. In addition to that, production of SLS might leave a trace of 1,4-Dioxane. Some products that contain SLS was discovered to contain up to 279 ppm of 1,4-Dioxane. 1,4-Dioxane was discovered as a potential carcinogen. In other words, SLS might contribute indirectly to the development of cancer."
+  },
+  {
+    "chemical": "SLS",
+    "label": "sodium laureth sulfate",
+    "allergy": "TRUE",
+    "description": "SLS is a known irritant to our eyes and skin. Other findings suggest that SLS can cause cancer in an animal. In addition to that, production of SLS might leave a trace of 1,4-Dioxane. Some products that contain SLS was discovered to contain up to 279 ppm of 1,4-Dioxane. 1,4-Dioxane was discovered as a potential carcinogen. In other words, SLS might contribute indirectly to the development of cancer."
+  },
+  {
+    "chemical": "Cocamidopropyl Betaine",
+    "label": "Cocamidopropyl Betaine",
+    "allergy": "FALSE",
+    "description": "The main danger to Cocamidopropyl betaine or CAPB is it potential to become an irritant to our skin and eye. In addition to that, it also can cause allergic to some people if they interact with it. This chemical compound is actually voted as Allergen of the Year in 2004 by the American Contact Dermatitis Society because of the numerous allergic case related with CAPB."
+  },
+  {
+    "chemical": "Triclosan",
+    "label": "Triclosan",
+    "allergy": "FALSE",
+    "description": "t’s a chemical antibacterial agent known to cause hormone disruptions, which can lead to cancer and affect fetal development, among other things."
+  },
+  {
+    "chemical": "Polysorbates",
+    "label": "Polysorbates",
+    "allergy": "FALSE",
+    "description": "Polysorbates can leave a residue on our skin or scalp, which will disturb the skin’s natural pH balance. It will also destroy our skin and scalp natural protective barrier. To what extent polysorbates can damage us is debatable. It is suggested that polysorbates can cause irritation to some people. Therefore, you should be careful in using polysorbates."
+  },
+  {
+    "chemical": "PEG",
+    "label": "Polyethylene Glycol",
+    "allergy": "FALSE",
+    "description": "Some research suggests that PEG contains dangerous dioxin levels, found as a by-product of the ethoxylation process in its manufacturing process. Dioxins have a direct link to cancer development. In other words, PEG might contribute indirectly to the increase of cancer development."
+  },
+  {
+    "chemical": "PEG",
+    "label": "polyethylene oxide",
+    "allergy": "FALSE",
+    "description": "Some research suggests that PEG contains dangerous dioxin levels, found as a by-product of the ethoxylation process in its manufacturing process. Dioxins have a direct link to cancer development. In other words, PEG might contribute indirectly to the increase of cancer development."
+  },
+  {
+    "chemical": "PEG",
+    "label": "PEG",
+    "allergy": "FALSE",
+    "description": "Some research suggests that PEG contains dangerous dioxin levels, found as a by-product of the ethoxylation process in its manufacturing process. Dioxins have a direct link to cancer development. In other words, PEG might contribute indirectly to the increase of cancer development."
+  },
+  {
+    "chemical": "PEG",
+    "label": "polyoxyethylene",
+    "allergy": "FALSE",
+    "description": "Some research suggests that PEG contains dangerous dioxin levels, found as a by-product of the ethoxylation process in its manufacturing process. Dioxins have a direct link to cancer development. In other words, PEG might contribute indirectly to the increase of cancer development."
+  },
+  {
+    "chemical": "Potassium Sorbate",
+    "label": "Potassium Sorbate",
+    "allergy": "TRUE",
+    "description": "The main danger of potassium sorbate is skin irritation and toxicity to our organ. It is better if you avoid potassium sorbate if you have irritation to it."
+  },
+  {
+    "chemical": "Phenoxyethanol",
+    "label": "Phenoxyethanol",
+    "allergy": "TRUE",
+    "description": "Some research suggests that phenoxyethanol can cause irritation to the eyes, lungs, or skin. It might even cause a shut down of the CNS, contact dermatitis, and also vomiting."
+  },
+  {
+    "chemical": "Retinyl Palmitate",
+    "label": "Retinyl Palmitate",
+    "allergy": "FALSE",
+    "description": "High doses of retinol are linked to speeding up cancer in lab animals. In addition to that, National Toxicology Program at the US concluded that the addition of retinyl palmitate exacerbated the frequency and rate of tumors. To put it simply, retinyl palmitate is a potential carcinogen that can cause cancer. Other danger of retinyl palmitate might include reproductive toxicity and organ toxicity."
+  },
+  {
+    "chemical": "Retinyl Palmitate",
+    "label": "vitamin A palmitate",
+    "allergy": "FALSE",
+    "description": "High doses of retinol are linked to speeding up cancer in lab animals. In addition to that, National Toxicology Program at the US concluded that the addition of retinyl palmitate exacerbated the frequency and rate of tumors. To put it simply, retinyl palmitate is a potential carcinogen that can cause cancer. Other danger of retinyl palmitate might include reproductive toxicity and organ toxicity."
+  },
+  {
+    "chemical": "PDMS",
+    "label": "Dimethicone",
+    "allergy": "TRUE",
+    "description": "Dimethicone can cause the skin and scalp become incredibly dry. In some case, it might cause irritation to the skin, eye, and scalp. It will also form a barrier on the outside of the skin that traps bacteria, sebum, and impurities. For the environment, it can become a pollutant that is hard to degrade to the environment."
+  },
+  {
+    "chemical": "PDMS",
+    "label": "polydimethylsiloxane",
+    "allergy": "TRUE",
+    "description": "Dimethicone can cause the skin and scalp become incredibly dry. In some case, it might cause irritation to the skin, eye, and scalp. It will also form a barrier on the outside of the skin that traps bacteria, sebum, and impurities. For the environment, it can become a pollutant that is hard to degrade to the environment."
+  },
+  {
+    "chemical": "PDMS",
+    "label": "PDMS",
+    "allergy": "TRUE",
+    "description": "Dimethicone can cause the skin and scalp become incredibly dry. In some case, it might cause irritation to the skin, eye, and scalp. It will also form a barrier on the outside of the skin that traps bacteria, sebum, and impurities. For the environment, it can become a pollutant that is hard to degrade to the environment."
+  },
+  {
+    "chemical": "PDMS",
+    "label": "silicone",
+    "allergy": "TRUE",
+    "description": "Dimethicone can cause the skin and scalp become incredibly dry. In some case, it might cause irritation to the skin, eye, and scalp. It will also form a barrier on the outside of the skin that traps bacteria, sebum, and impurities. For the environment, it can become a pollutant that is hard to degrade to the environment."
+  },
+  {
+    "chemical": "BTAC-228",
+    "label": "Behentrimonium Chloride",
+    "allergy": "TRUE",
+    "description": "The potential danger of behentrimonium chloride is irritation inflammation. With only a 0.1% concentration, it can cause damage to the eyes. Not only that, it also irritates the skin."
+  },
+  {
+    "chemical": "BTAC-228",
+    "label": "BTAC-228",
+    "allergy": "TRUE",
+    "description": "The potential danger of behentrimonium chloride is irritation inflammation. With only a 0.1% concentration, it can cause damage to the eyes. Not only that, it also irritates the skin."
+  },
+  {
+    "chemical": "BTAC-228",
+    "label": "docosyltrimethylammonium chloride",
+    "allergy": "TRUE",
+    "description": "The potential danger of behentrimonium chloride is irritation inflammation. With only a 0.1% concentration, it can cause damage to the eyes. Not only that, it also irritates the skin."
+  },
+  {
+    "chemical": "Fragrance",
+    "label": "Fragrance",
+    "allergy": "FALSE",
+    "description": "Chemical fragrance can be dangerous because it clogs our lymphatic system. In addition to that, it can also induce major organ toxicity. In extreme, it can also cause endocrine disruption. Endocrine disruption can cause significant health problems."
+  },
+  {
+    "chemical": "Fragrance",
+    "label": "Synthetic Fragrances",
+    "allergy": "FALSE",
+    "description": "Chemical fragrance can be dangerous because it clogs our lymphatic system. In addition to that, it can also induce major organ toxicity. In extreme, it can also cause endocrine disruption. Endocrine disruption can cause significant health problems."
+  },
+  {
+    "chemical": "Parabens",
+    "label": "Paraben",
+    "allergy": "FALSE",
+    "description": "Endocrine disruption, cancer, developmental and reproductive toxicity"
+  },
+  {
+    "chemical": "Quaternium-15",
+    "label": "Quaternium-15",
+    "allergy": "TRUE",
+    "description": "This chemicals maybe harmful for you and can cause you skin allergic."
+  },
+  {
+    "chemical": "Quaternium-15",
+    "label": "Formaldehyde",
+    "allergy": "TRUE",
+    "description": "This chemicals maybe harmful for you and can cause you skin allergic."
+  },
+  {
+    "chemical": "Dimethicone",
+    "label": "Dimethicone",
+    "allergy": "FALSE",
+    "description": "This chemicals compound may cause you reproductive damage to skin such as skin irritation and sensitive."
+  },
+  {
+    "chemical": "Sodium Chloride",
+    "label": "Sodium Chloride",
+    "allergy": "FALSE",
+    "description": "Sodium Chloride can make an already-sensitive scalp dry and itchy, which can eventually cause hair loss."
+  },
+  {
+    "chemical": "Sulfates",
+    "label": "Sodium Laureth Sulfate",
+    "allergy": "FALSE",
+    "description": "Sulfates take all the oils and residue with them. But while cleansing, they can also damage the hair, make it brittle, and increase frizz."
+  },
+  {
+    "chemical": "Sulfates",
+    "label": "Ammonium Lauryl Sulfate",
+    "allergy": "FALSE",
+    "description": "Sulfates take all the oils and residue with them. But while cleansing, they can also damage the hair, make it brittle, and increase frizz."
+  },
+  {
+    "chemical": "DEA",
+    "label": "DEA",
+    "allergy": "FALSE",
+    "description": "Cancer, environmental concerns (bioaccumulation), organ system toxicity"
+  },
+  {
+    "chemical": "DEA",
+    "label": "MEA",
+    "allergy": "FALSE",
+    "description": "Cancer, environmental concerns (bioaccumulation), organ system toxicity"
+  },
+  {
+    "chemical": "DEA",
+    "label": "TEA",
+    "allergy": "FALSE",
+    "description": "Cancer, environmental concerns (bioaccumulation), organ system toxicity"
+  },
+  {
+    "chemical": "DEA",
+    "label": "Diethanolamine",
+    "allergy": "FALSE",
+    "description": "Cancer, environmental concerns (bioaccumulation), organ system toxicity"
+  },
+  {
+    "chemical": "DEA",
+    "label": "Triethanolamine",
+    "allergy": "FALSE",
+    "description": "Cancer, environmental concerns (bioaccumulation), organ system toxicity"
+  },
+  {
+    "chemical": "Alcohol",
+    "label": "Isopropyl alcohol",
+    "allergy": "FALSE",
+    "description": "This chemicals have a drying effect that maybe harmful for you."
+  },
+  {
+    "chemical": "Alcohol",
+    "label": "propanol",
+    "allergy": "FALSE",
+    "description": "This chemicals have a drying effect that maybe harmful for you."
+  },
+  {
+    "chemical": "Synthetic Colors",
+    "label": "Synthetic Colors",
+    "allergy": "FALSE",
+    "description": "These colors come from petroleum or coal-tar sources, all of which come with harmful health effects."
+  },
+  {
+    "chemical": "Hydroquinone",
+    "label": "Hydroquinone",
+    "allergy": "FALSE",
+    "description": "Cancer, organ-system toxicity, respiratory tract irritation."
+  },
+  {
+    "chemical": "Benzophenone",
+    "label": "Benzophenone",
+    "allergy": "FALSE",
+    "description": "Cancer, endocrine disruption, developmental and reproductive toxicity,  organ system toxicity, irritation, ecotoxicity"
+  },
+  {
+    "chemical": "1,4-DIOXANE",
+    "label": "xynol",
+    "allergy": "FALSE",
+    "description": "1,4-dioxane is generated through a process called ethoxylation, in which ethylene oxide, a known breast carcinogen, is added to other chemicals to make them less harsh."
+  },
+  {
+    "chemical": "1,4-DIOXANE",
+    "label": "ceteareth",
+    "allergy": "FALSE",
+    "description": "1,4-dioxane is generated through a process called ethoxylation, in which ethylene oxide, a known breast carcinogen, is added to other chemicals to make them less harsh."
+  },
+  {
+    "chemical": "1,4-DIOXANE",
+    "label": "oleth",
+    "allergy": "FALSE",
+    "description": "1,4-dioxane is generated through a process called ethoxylation, in which ethylene oxide, a known breast carcinogen, is added to other chemicals to make them less harsh."
+  },
+  {
+    "chemical": "MIT",
+    "label": "Methylisothiazolinone",
+    "allergy": "TRUE",
+    "description": "Inhalation toxicity, allergies and possible neurotoxicity."
+  },
+  {
+    "chemical": "MIT",
+    "label": "Methylchloroisothiazolinone",
+    "allergy": "TRUE",
+    "description": "Inhalation toxicity, allergies and possible neurotoxicity."
+  },
+  {
+    "chemical": "MIT",
+    "label": "2-methyl-4-isothiazoline-3-one",
+    "allergy": "TRUE",
+    "description": "Inhalation toxicity, allergies and possible neurotoxicity."
+  },
+  {
+    "chemical": "MIT",
+    "label": "Neolone 950 preservative",
+    "allergy": "TRUE",
+    "description": "Inhalation toxicity, allergies and possible neurotoxicity."
+  },
+  {
+    "chemical": "MIT",
+    "label": "MI",
+    "allergy": "TRUE",
+    "description": "Inhalation toxicity, allergies and possible neurotoxicity."
+  },
+  {
+    "chemical": "MIT",
+    "label": "OriStar MIT and Microcare MT",
+    "allergy": "TRUE",
+    "description": "Inhalation toxicity, allergies and possible neurotoxicity."
+  },
+  {
+    "chemical": "MIT",
+    "label": "5-Chloro-2-methyl-4-isothiazolin-3-one",
+    "allergy": "TRUE",
+    "description": "Inhalation toxicity, allergies and possible neurotoxicity."
+  },
+  {
+    "chemical": "MIT",
+    "label": "MCI",
+    "allergy": "TRUE",
+    "description": "Inhalation toxicity, allergies and possible neurotoxicity."
+  },
+  {
+    "chemical": "p-phenylenediamine",
+    "label": "p-phenylenediamine",
+    "allergy": "TRUE",
+    "description": "Skin sensitization, cancer, mutagenicity, organ system toxicity"
+  },
+  {
+    "chemical": "p-phenylenediamine",
+    "label": "para-phenylenediamine",
+    "allergy": "TRUE",
+    "description": "Skin sensitization, cancer, mutagenicity, organ system toxicity"
+  },
+  {
+    "chemical": "p-phenylenediamine",
+    "label": "aminoaniline",
+    "allergy": "TRUE",
+    "description": "Skin sensitization, cancer, mutagenicity, organ system toxicity"
+  },
+  {
+    "chemical": "p-phenylenediamine",
+    "label": "benzenediamine",
+    "allergy": "TRUE",
+    "description": "Skin sensitization, cancer, mutagenicity, organ system toxicity"
+  },
+  {
+    "chemical": "p-phenylenediamine",
+    "label": "diaminobenzene",
+    "allergy": "TRUE",
+    "description": "Skin sensitization, cancer, mutagenicity, organ system toxicity"
+  },
+  {
+    "chemical": "p-phenylenediamine",
+    "label": "phenylene diamine",
+    "allergy": "TRUE",
+    "description": "Skin sensitization, cancer, mutagenicity, organ system toxicity"
+  },
+  {
+    "chemical": "Preservatives",
+    "label": "Formaldehyde",
+    "allergy": "TRUE",
+    "description": "Cancer, endocrine disruption, developmental toxicity, reproductive toxicity, irritation, and many other health concerns."
+  },
+  {
+    "chemical": "Preservatives",
+    "label": "DMDM hydantoin",
+    "allergy": "TRUE",
+    "description": "Cancer, endocrine disruption, developmental toxicity, reproductive toxicity, irritation, and many other health concerns."
+  },
+  {
+    "chemical": "Preservatives",
+    "label": "imidazolidinyl urea",
+    "allergy": "TRUE",
+    "description": "Cancer, endocrine disruption, developmental toxicity, reproductive toxicity, irritation, and many other health concerns."
+  },
+  {
+    "chemical": "Preservatives",
+    "label": "diazolidinyl urea",
+    "allergy": "TRUE",
+    "description": "Cancer, endocrine disruption, developmental toxicity, reproductive toxicity, irritation, and many other health concerns."
+  },
+  {
+    "chemical": "Preservatives",
+    "label": "polyoxymethylene urea",
+    "allergy": "TRUE",
+    "description": "Cancer, endocrine disruption, developmental toxicity, reproductive toxicity, irritation, and many other health concerns."
+  },
+  {
+    "chemical": "Preservatives",
+    "label": "sodium hydroxymethylglycinate",
+    "allergy": "TRUE",
+    "description": "Cancer, endocrine disruption, developmental toxicity, reproductive toxicity, irritation, and many other health concerns."
+  },
+  {
+    "chemical": "Preservatives",
+    "label": "2-bromo-2-nitropropane-1",
+    "allergy": "TRUE",
+    "description": "Cancer, endocrine disruption, developmental toxicity, reproductive toxicity, irritation, and many other health concerns."
+  },
+  {
+    "chemical": "Preservatives",
+    "label": "3-diol (bromopol) and glyoxal",
+    "allergy": "TRUE",
+    "description": "Cancer, endocrine disruption, developmental toxicity, reproductive toxicity, irritation, and many other health concerns."
+  },
+  {
+    "chemical": "Preservatives",
+    "label": "Ethylparaben",
+    "allergy": "TRUE",
+    "description": "Cancer, endocrine disruption, developmental toxicity, reproductive toxicity, irritation, and many other health concerns."
+  }
+]
