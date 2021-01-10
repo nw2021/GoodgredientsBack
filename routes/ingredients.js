@@ -23,10 +23,27 @@ router.post('/', async (req, res) => {
         for(let i = 0; i < jsonArray.length; i++) {
             retArray.push(jsonArray[i].label)
         }
-        res.status(200).json(retArray)
+        let finalResult = parseData(retArray)
+        res.status(200).json(finalResult)
     } catch (err) {
         res.status(400).json( { message: err.message })
     }
 })
+
+function parseData(data) {
+    const ingredients_src = require('./ingredients.json')
+    let result = []
+    for (let item of data){
+        item = item.toLowerCase()
+        let itemdone = false
+        for (let i of ingredients_src) {
+          if (i.label.toLowerCase() == item && itemdone == false) {
+            result.push(i)
+            itemdone = true 
+          }
+        }
+    }
+  return result;
+}
 
 module.exports = router
